@@ -1,1 +1,1 @@
-# ionic-stripe
+Companion code for the Stripe integration with Ionic Framework tutorial at [Ionic Framework & Stripe](https://baadiersydow.com/integrate-ionic-framework-stripe-single-recurring-payments/)
